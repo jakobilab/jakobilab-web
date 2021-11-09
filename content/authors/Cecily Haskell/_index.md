@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Maybe You?
+title: Cecily Haskell
 
 # Username (this should match the folder name)
 authors:
-- Maybe You?
+- Cecily Haskell
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 
+role: Research Professional
 
 # Organizations/Affiliations
 organizations:
@@ -32,6 +32,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
-- Grad Students
+- Lab Members
 ---

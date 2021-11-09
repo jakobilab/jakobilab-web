@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
-title = "We are recruiting"
+title = "Join Our Team!"
 subtitle = ""
 
 
@@ -58,7 +58,7 @@ subtitle = ""
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-We are looking for a Postdoctoral Research Associate, Master's and PhD students.
+We are looking for a Postdoctoral Research Associate, Master's, and PhD students.
 
 
 <!-- We are looking for a Postdoctoral Research Associate, Master's and PhD students, and a Research Associate.

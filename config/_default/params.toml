@@ -15,6 +15,8 @@
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
 
+highlight_superuser = true
+
 # Enable users to switch between day and night mode?
 day_night = false
 
@@ -71,7 +73,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Show related content at the bottom of pages?
 show_related = {post = true, project = true, publication = true, talk = true}
@@ -88,7 +90,7 @@ email = ""
 phone = ""
 
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "475 N 5th St", city = "Phoenix", region = "AZ", postcode = "85008", country = "USA", country_code = "US"}
+address = {street = "475 N 5th St", city = "Phoenix", region = "AZ", postcode = "85004", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -253,7 +255,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "G-Y3YDGHVPPC"
   google_tag_manager = ""
   google_site_verification = ""
 

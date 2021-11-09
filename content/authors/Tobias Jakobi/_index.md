@@ -12,6 +12,9 @@ superuser: true
 # Role/position
 role: Assistant Professor
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizations/Affiliations
 organizations:
 

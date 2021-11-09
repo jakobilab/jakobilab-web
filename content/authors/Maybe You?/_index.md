@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: We are looking for a Postdoctoral Research Associate, Master’s and PhD students.
 
 # Organizations/Affiliations
 organizations:
@@ -32,6 +32,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
-- Grad Students
+- Lab Members
 ---
