@@ -26,7 +26,7 @@ image:
 links:
 
 - name: Code
-  url: https://github.com/tjakobi/saruman
+  url: https://github.com/jakobilab/saruman
   icon_pack: fas
   icon: code
     

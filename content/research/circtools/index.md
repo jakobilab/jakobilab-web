@@ -25,7 +25,7 @@ image:
 links:
 
 - name: Code
-  url: https://github.com/dieterich-lab/circtools
+  url: https://github.com/jakobilab/circtools
   icon_pack: fas
   icon: code
 
