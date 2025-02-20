@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Maybe You?
+title: Yaden Santana Ramirez
 
 # Username (this should match the folder name)
 authors:
-- Maybe You?
+- Yaden Santana Ramirez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: We are looking for a Postdoctoral Research Associate, Master’s and PhD students.
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
