@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Circulation Research*"
-tags: ["metabolism", "gene expression", "proteostasis", "hypertrophy", "left ventricular", "protein biosynthesis", "protein folding", "ribosomes", "selected"]
+tags: ["metabolism", "gene expression", "proteostasis", "hypertrophy", "left ventricular", "protein biosynthesis", "protein folding", "ribosomes"]
 url_pdf: "https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.119.314817"
 doi: "10.1161/CIRCRESAHA.119.314817"
 ---

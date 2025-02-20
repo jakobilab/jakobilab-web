@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: "An international, peer-reviewed genome sciences journal featuring outstanding original research that offers novel insights into the biology of all organisms"
 featured: false
 publication: "*Genome Research*"
-tags: ["circRNAs", "circRNAs", "RNA editing", "editing", "ADAR", "splicing", "selected"]
+tags: ["circRNAs", "circRNAs", "RNA editing", "editing", "ADAR", "splicing"]
 url_pdf: "http://genome.cshlp.org/content/early/2020/07/29/gr.256933.119"
 doi: "10.1101/gr.256933.119"
 ---

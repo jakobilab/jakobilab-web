@@ -24,7 +24,6 @@ authors:
 - Sandra Ciesek
 - Jindrich Cinatl
 - Stefanie Dimmeler
-tags: ["selected"]
 categories: []
 date: '2021-07-01'
 lastmod: 2021-09-23T14:14:42-07:00
