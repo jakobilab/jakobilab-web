@@ -1,0 +1,123 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Transient Inhibition of Translation Improves Cardiac Function After Ischemia/Reperfusion
+  by Attenuating the Inflammatory Response
+subtitle: ''
+summary: ''
+authors:
+- Christoph Hofmann
+- Adrian Serafin
+- Ole M. Schwerdt
+- Johannes Fischer
+- Florian Sicklinger
+- Fereshteh S. Younesi
+- Nikole J. Byrne
+- Ingmar S. Meyer
+- Ellen Malovrh
+- Clara Sandmann
+- Lonny Jürgensen
+- Verena Kamuf-Schenk
+- Claudia Stroh
+- Zoe Löwenthal
+- Daniel Finke
+- Etienne Boileau
+- Arica Beisaw
+- Heiko Bugger
+- Mandy Rettel
+- Frank Stein
+- Hugo A. Katus
+- Tobias Jakobi
+- Norbert Frey
+- Florian Leuschner
+- Mirko Völkers
+tags:
+- Adaptor Proteins
+- Signal Transducing
+- Animals
+- Antigens
+- Ly
+- Cell Cycle Proteins
+- chemokine CCL2
+- Disease Models
+- Animal
+- eukaryotic initiation factor-4F
+- inflammation
+- Inflammation
+- Male
+- Mechanistic Target of Rapamycin Complex 1
+- Mice
+- Mice
+- Inbred C57BL
+- myocardial infarction
+- Myocardial Reperfusion Injury
+- Myocytes
+- Cardiac
+- peptide chain initiation
+- translational
+- Protein Biosynthesis
+- reperfusion injury
+- RNA
+- Messenger
+- TOR serine-threonine kinases
+- selected
+categories: []
+date: '2024-10-01'
+lastmod: 2025-02-20T11:44:04-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2025-02-20T18:44:04.100301Z'
+publication_types:
+- '2'
+abstract: 'BACKGROUND: The myocardium adapts to ischemia/reperfusion (I/R) by changes
+  in gene expression, determining the cardiac response to reperfusion. mRNA translation
+  is a key component of gene expression. It is largely unknown how regulation of mRNA
+  translation contributes to cardiac gene expression and inflammation in response
+  to reperfusion and whether it can be targeted to mitigate I/R injury. METHODS: To
+  examine translation and its impact on gene expression in response to I/R, we measured
+  protein synthesis after reperfusion in vitro and in vivo. Underlying mechanisms
+  of translational control were examined by pharmacological and genetic targeting
+  of translation initiation in mice. Cell type-specific ribosome profiling was performed
+  in mice that had been subjected to I/R to determine the impact of mRNA translation
+  on the regulation of gene expression in cardiomyocytes. Translational regulation
+  of inflammation was studied by quantification of immune cell infiltration, inflammatory
+  gene expression, and cardiac function after short-term inhibition of translation
+  initiation. RESULTS: Reperfusion induced a rapid recovery of translational activity
+  that exceeds baseline levels in the infarct and border zone and is mediated by translation
+  initiation through the mTORC1 (mechanistic target of rapamycin complex 1)-4EBP1
+  (eIF4E-binding protein 1)-eIF (eukaryotic initiation factor) 4F axis. Cardiomyocyte-specific
+  ribosome profiling identified that I/R increased translation of mRNA networks associated
+  with cardiac inflammation and cell infiltration. Short-term inhibition of the mTORC1-4EBP1-eIF4F
+  axis decreased the expression of proinflammatory cytokines such as Ccl2 (C-C motif
+  chemokine ligand 2) of border zone cardiomyocytes, thereby attenuating Ly6Chi monocyte
+  infiltration and myocardial inflammation. In addition, we identified a systemic
+  immunosuppressive effect of eIF4F translation inhibitors on circulating monocytes,
+  directly inhibiting monocyte infiltration. Short-term pharmacological inhibition
+  of eIF4F complex formation by 4EGI-1 or rapamycin attenuated translation, reduced
+  infarct size, and improved cardiac function after myocardial infarction. CONCLUSIONS:
+  Global protein synthesis is inhibited during ischemia and shortly after reperfusion,
+  followed by a recovery of protein synthesis that exceeds baseline levels in the
+  border and infarct zones. Activation of mRNA translation after reperfusion is driven
+  by mTORC1/eIF4F-mediated regulation of initiation and mediates an mRNA network that
+  controls inflammation and monocyte infiltration to the myocardium. Transient inhibition
+  of the mTORC1-/eIF4F axis inhibits translation and attenuates Ly6Chi monocyte infiltration
+  by inhibiting a proinflammatory response at the site of injury and of circulating
+  monocytes.'
+publication: '*Circulation*'
+doi: 10.1161/CIRCULATIONAHA.123.067479
+---
