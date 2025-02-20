@@ -58,13 +58,12 @@ subtitle = ""
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-We are looking for a Research Associate, Master's, and PhD students.
+<!-- We are looking for a Research Associate, Master's, and PhD students. -->
 
-<!-- We are looking for a Postdoctoral Research Associate, Master's and PhD students, and a Research Associate.
- -->
+We are looking for a Postdoctoral Research Associate, Master's and PhD students, and a Research Associate.
 
-<!-- {{< button "Apply to Postdoctoral Research Associate position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/9755?c=arizona" >}}  -->
+ {{< button "Apply to Postdoctoral Research Associate position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21195?c=arizona" >}}  
 
-{{< button "We have open positions, contact us!" "#contact" >}}
+<!-- {{< button "We have open positions, contact us!" "#contact" >}} -->
 
 <!-- {{< button "Apply to Research Associate position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/" >}} -->
