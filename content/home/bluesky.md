@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 75
 
-title: Twitter
+title: Bluesky
 subtitle:
 
 content:
@@ -29,4 +29,4 @@ design:
   columns: '2'
 ---
 
-<a class="twitter-timeline" data-height="1000" href="https://twitter.com/TobiasJakobi?ref_src=twsrc%5Etfw">Tweets by @TobiasJakobi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<bsky-embed username="tobias.jako.bi" mode="light" limit="3"></bsky-embed>
