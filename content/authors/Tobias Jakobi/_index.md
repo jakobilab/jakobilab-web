@@ -103,5 +103,5 @@ training included eukaryotic biology, genome research, and wet lab training in a
 to comprehensive training in theoretical and applied bioinformatics to allow the
 fluent communication between wet lab and bioinformatics.
 
-I am working as Assistant Professor in the [Department of Internal Medicine](https://phoenixmed.arizona.edu/medicine) and in the new [Translational Cardiovascular Research Center (TCRC)](https://phoenixmed.arizona.edu/tcrc) at [The University of Arizona College of Medicine – Phoenix](https://phoenixmed.arizona.edu/)
+I am working in the [Department of Internal Medicine](https://phoenixmed.arizona.edu/medicine) and in the new [Translational Cardiovascular Research Center (TCRC)](https://phoenixmed.arizona.edu/tcrc) at [The University of Arizona College of Medicine – Phoenix](https://phoenixmed.arizona.edu/)
 .
