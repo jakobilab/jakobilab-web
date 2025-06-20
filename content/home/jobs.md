@@ -60,9 +60,11 @@ subtitle = ""
 
 <!-- We are looking for a Research Associate, Master's, and PhD students. -->
 
-We are looking for a Postdoctoral Research Associate, Master's and PhD students, and a Research Associate.
+We are looking for a Postdoctoral Research Associate, Master's and PhD students, and a Scientific Analyst.
 
- {{< button "Apply to Postdoctoral Research Associate position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21195?c=arizona" >}}  
+{{< button "Apply to Postdoctoral Research Associate position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/21195?c=arizona" >}}
+
+{{< button "Apply to Scientific Analyst I position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/22932?c=arizona&sq=req22932" >}}
 
 <!-- {{< button "We have open positions, contact us!" "#contact" >}} -->
 

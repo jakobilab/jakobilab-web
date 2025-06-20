@@ -76,6 +76,13 @@ function linkTo_UnCryptMailto( s )
 }
 // --> </script>
 
-Our lab focuses on the interplay of coding and non-coding RNAs, such as the novel class of circular RNAs in heart disease.
+Our lab focuses on the expression, splicing, and regulatory roles of coding and
+non-coding RNAs, such as circular RNAs, in cardiovascular and stress-related
+systems.
 
-Moreover, we develop new computational tools that can be used by other researchers in their field of interest.
+Our research integrates high-throughput sequencing, transcriptomics,
+and systems biology to uncover how cells respond and adapt at the molecular
+level.
+
+We are actively involved in open-source software development, creating tools 
+that support reproducible and scalable analyses in RNA research.

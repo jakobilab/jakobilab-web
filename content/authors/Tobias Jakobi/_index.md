@@ -97,11 +97,13 @@ user_groups:
 - Principal Investigator
 ---
 
-Dr. Jakobi is bioinformatician trained with an emphasis on the interconnection 
-of wet lab research and computational research. His academic and research 
-training included eukaryotic biology, genome research, and wet lab training in addition
-to comprehensive training in theoretical and applied bioinformatics to allow the
-fluent communication between wet lab and bioinformatics.
+Dr. Tobias Jakobi is a computational biologist whose research focuses on 
+understanding the expression, splicing, and interaction of coding and non-coding
+RNAs, such as circular RNAs, particularly in the context of cardiovascular
+and stress-related physiology. His work bridges high-throughput sequencing, 
+transcriptomics, and systems biology, offering powerful insights into 
+how cells adapt at the molecular level.
+
 
 I am working in the [Department of Internal Medicine](https://phoenixmed.arizona.edu/medicine) and in the new [Translational Cardiovascular Research Center (TCRC)](https://phoenixmed.arizona.edu/tcrc) at [The University of Arizona College of Medicine – Phoenix](https://phoenixmed.arizona.edu/)
 .
